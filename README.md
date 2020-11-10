@@ -31,3 +31,17 @@ Create the following functions:
 The functions should make use of closures to achieve the specified goals.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-advanced-scope-closures-lab' title='Advanced Scope Closures Lab'>Advanced Scope Closures Lab</a> on Learn.co and start learning to code for free.</p>
+
+
+
+<!-- return function (blocks){
+
+  let phrase;
+  if (range > blocks){
+    phrase = `${range - blocks} blocks out of range`
+  } else {
+    phrase = `${ - blocks} within range`
+  }
+
+  return phrase
+} -->
